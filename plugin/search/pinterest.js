@@ -14,7 +14,7 @@ module.exports = {
     }
 
     try {
-      await reaction(m.chat, "🔁");
+      await reaction(m.chat, "⚡");
       await sleep(500);
 
       function shuffleArray(array) {
@@ -78,7 +78,7 @@ module.exports = {
           }
         }
       }, {});
-      await reaction(m.chat, "✅");
+      await reaction(m.chat, "🐯");
 
     } catch (error) {
       console.error('Error:', error);
