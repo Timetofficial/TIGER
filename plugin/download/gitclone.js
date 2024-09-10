@@ -39,7 +39,7 @@ module.exports = {
                 mimetype: 'application/zip'
             }, { quoted: m });
 
-            await reaction(m.chat, ",🦄");
+            await reaction(m.chat, ",🐯");
         } catch (error) {
             console.error('Error:', error);
             await reply('Failed to download the GitHub repository. Please try again later.');
