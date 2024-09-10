@@ -1,24 +1,24 @@
 /*
 
-# Owner ? : 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
+# Owner ? : 𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴
 !- do not delete this credit
 
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['27782182246']
-global.ownMain = '27782182246'
-global.NamaOwner = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //
+global.owner = ['254702713600']
+global.ownMain = '254702713600'
+global.NamaOwner = '𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴' //
 global.sessionName = 'session'
 global.connect = true // 
-global.namabot = '𝐉𝐢𝐧𝐱-𝐕1' //
-global.author = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //
-global.packname = '𝐉𝐢𝐧𝐱-𝐕1' //
+global.namabot = '𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁2' //
+global.author = '𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁2' //
+global.packname = '𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁2' //
 global.autoviewstatus = process.env.autoviewstatus || "TRUE"
 global.welcome = false
-global.url1 = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e' //gausah diganti
-global.url2 = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e' //gausah diganti
-global.linkgc = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e'
+global.url1 = 'https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q' //gausah diganti
+global.url2 = 'https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q' //gausah diganti
+global.linkgc = 'https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH'
 global.delayjpm = 3500
 global.domain = 'https://guru.sellerpanell.me' // your domian
 global.apikey = 'ptla_aRq7aFBbQowvPwLChvjNLX5uE0rYZ6dUdGbFIhqUwUg' // Isi Apikey Plta Lu
@@ -30,12 +30,12 @@ global.mess = { //
 ingroup: 'This feature can only be used in groups.',
 admin: 'This feature is specifically for group admins.',
 notadmin: "The bot must be an admin first",
-owner: 'You are not 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒.',
+owner: 'You are not 𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴.',
 premium: 'You are not a premium user.',
 seller: 'This feature can only be used by resellers and owners.',
 usingsetpp: `Setpp can only be used by the owner, do you think I'm stupid?`,
 wait: '*Waiting for processing*',
-success: 'Success sent by Spider V7',
+success: 'Success sent by 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁2',
 bugrespon: `Processs.....`
 }
 
