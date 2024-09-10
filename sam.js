@@ -1,10 +1,4 @@
-/*
 
-
-# Owner ? : 𝐃𝚪𝚫𝐆𝚯𝚴
-
-
-*/
 const {
 samConnect,
 downloadContentFromMessage,
