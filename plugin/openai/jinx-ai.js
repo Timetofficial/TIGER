@@ -8,7 +8,7 @@ module.exports = {
     command: ['jinx-ai'],
     operate: async (context) => {
         const { sam, m, q, prefix, command, reply } = context;
-        if (!q) return xreply(`*Example*:\n${prefix + command} Hello Jinx?`);
+        if (!q) return xreply(`*Example*:\n${prefix + command} Hello tiger?`);
         
         async function chat(prompt) {
             const messages = [
@@ -27,11 +27,11 @@ module.exports = {
                 text: response,
                 contextInfo: {
                     externalAdReply: {
-                        title: "Jinx - 2024",
-                        body: "By-𝕶𝖎𝖓𝖌 𝕾𝖆𝖒",
-                        thumbnailUrl: 'https://telegra.ph/file/dc9d3bdc97bb45d2d8a53.jpg',
-                        thumbnail: { url: 'https://telegra.ph/file/dc9d3bdc97bb45d2d8a53.jpg' },
-                        sourceUrl: 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e',
+                        title: "𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁2 - 2024",
+                        body: "By-𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴",
+                        thumbnailUrl: 'https://telegra.ph/file/c26ca33cb2b3b44bfe4ab.jpg',
+                        thumbnail: { url: 'https://telegra.ph/file/c26ca33cb2b3b44bfe4ab.jpg' },
+                        sourceUrl: 'https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q',
                         previewType: "VIDEO",
                         showAdAttribution: true,
                         mediaType: 1,
