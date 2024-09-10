@@ -14,7 +14,7 @@ module.exports = {
         }
 
         try {
-            await reaction(m.chat, '⬇️');
+            await reaction(m.chat, '🐯');
 
             let anu = (await yts(q)).all;
             let video = anu.filter(v => v.type === 'video');
@@ -30,7 +30,7 @@ module.exports = {
                 kocak.push({
                     body: { text: `${data.title}` },
                     footer: {
-                        text: '© Jinx - 2024'
+                        text: '© 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁2 - 2024'
                     },
                     header: { hasMediaAttachment: true, imageMessage: media },
                     nativeFlowMessage: {
@@ -62,14 +62,14 @@ module.exports = {
                     message: {
                         interactiveMessage: {
                             body: { text: `Results from \`${q}\`` },
-                            footer: { text: "© Jinx - 2024" },
+                            footer: { text: "© 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁2 - 2024" },
                             carouselMessage: { cards: kocak }
                         }
                     }
                 }
             }, {});
 
-            await reaction(m.chat, '🦄');
+            await reaction(m.chat, '🚨');
         } catch (error) {
             console.error('Error:', error);
             await reply('Failed to download media from Instagram. Please try again later.');
