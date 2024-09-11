@@ -12,8 +12,8 @@ module.exports = {
         
         async function chat(prompt) {
             const messages = [
-                { role: "system", content: `you are jinx ai` },
-                { role: "assistant", content: `Hello Im Jinx-Ai the most powerful ai.` },
+                { role: "system", content: `you are 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁2` },
+                { role: "assistant", content: `Hello Im 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁2 the most powerful ai.` },
                 { role: "user", content: prompt }
             ];
             let res = await g4f.chatCompletion(messages);
@@ -29,9 +29,9 @@ module.exports = {
                     externalAdReply: {
                         title: "𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁2 - 2024",
                         body: "By-𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴",
-                        thumbnailUrl: 'https://telegra.ph/file/c26ca33cb2b3b44bfe4ab.jpg',
-                        thumbnail: { url: 'https://telegra.ph/file/c26ca33cb2b3b44bfe4ab.jpg' },
-                        sourceUrl: 'https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q',
+                        thumbnailUrl: 'https://i.imgur.com/tUqZbZd.jpeg',
+                        thumbnail: { url: 'https://i.imgur.com/tUqZbZd.jpeg' },
+                        sourceUrl: 'https://i.imgur.com/tUqZbZd.jpeg',
                         previewType: "VIDEO",
                         showAdAttribution: true,
                         mediaType: 1,
