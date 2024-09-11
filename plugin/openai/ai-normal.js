@@ -8,7 +8,7 @@ module.exports = {
     command: ['ai', 'chatgpt'],
     operate: async (context) => {
         const { sam, m, q, prefix, command, reply } = context;
-        if (!q) return reply(`*Example*:\n${prefix + command} Hello Jinxi User?`);
+        if (!q) return reply(`*Example*:\n${prefix + command} Hello 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁2 User?`);
         
         async function chat(prompt) {
             const messages = [
@@ -29,8 +29,8 @@ module.exports = {
                     externalAdReply: {
                         title: "Trash-GpT",
                         body: "Trash-GpT",
-                        thumbnailUrl: 'https://telegra.ph/file/aee58c3fd8ca6c1cd4507.jpg',
-                        thumbnail: { url: 'https://telegra.ph/file/aee58c3fd8ca6c1cd4507.jpg' },
+                        thumbnailUrl: 'https://i.imgur.com/tUqZbZd.jpeg',
+                        thumbnail: { url: 'https://i.imgur.com/tUqZbZd.jpeg' },
                         sourceUrl: 'https://lol.zeroexecution.ml/zero-xv',
                         previewType: "VIDEO",
                         showAdAttribution: true,
