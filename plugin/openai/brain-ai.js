@@ -29,8 +29,8 @@ module.exports = {
                     externalAdReply: {
                         title: "Rimuru - Ai",
                         body: "Rimuru - Ai",
-                        thumbnailUrl: 'https://telegra.ph/file/c26ca33cb2b3b44bfe4ab.jpg',
-                        thumbnail: { url: 'https://telegra.ph/file/c26ca33cb2b3b44bfe4ab.jpg' },
+                        thumbnailUrl: 'https://i.imgur.com/tUqZbZd.jpeg',
+                        thumbnail: { url: 'https://i.imgur.com/tUqZbZd.jpeg' },
                         sourceUrl: 'https://lol.devosixcore.ml/rimuru-ai',
                         previewType: "VIDEO",
                         showAdAttribution: true,
